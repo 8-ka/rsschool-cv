@@ -1,0 +1,72 @@
+body {
+
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  /*HEADER*/
+  .header__container {
+
+  }
+  
+  .header__avatar {
+
+  }
+  
+  .header__img {
+
+  }
+  
+  .header__main {
+
+  }
+  
+  .name {
+
+  }
+  
+  .contacts {
+
+  }
+  
+  .contacts span {
+
+  }
+  
+  /*MAIN INFO*/
+  
+  .underline {
+
+  }
+  
+  .main {
+
+  }
+  
+  .main__container {
+
+  }
+  
+  .user {
+
+  }
+  
+  .user__info {
+
+  }
+  
+  /*FOOTER*/
+  
+  .footer {
+
+  }
+  
+  .footer__contacts {
+
+  }
+  
+  .contacts__tel {
+
+  }
