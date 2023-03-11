@@ -67,7 +67,7 @@ let pow = (a, b) => {
 
 - Foreign Languages (English, Chinese)
 - Teaching
-- CSS / HTML / JavaScript
+- CSS / HTML / SASS / JavaScript / React / Redux / C# / Unity
 - Editing / Filmmaking
 
 **Soft skills**
@@ -84,4 +84,4 @@ let pow = (a, b) => {
 ---
 
 - **A** (motorcycles)
-- **B** (motor cars)
+- **B** (cars)
